@@ -18,8 +18,7 @@
 
 - 💼 I'm currently working on: **💻 Developing a new portfolio using React, Nextjs and Node.js**
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs*
 - 📂 Portfolio: **<a href="https://leightongrant.me" target="_blank">http://leightongrant.me</a>**
 
  **<h3 align="left">Skills</h3>**
